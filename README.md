@@ -12,12 +12,12 @@ The link for this API is  https://github.com/mathdroid/covid-19-api
     
  This are the Screenshots of App
  
- Get Global Data
+ # Get Global Data
  
  ![globalSS2](https://user-images.githubusercontent.com/54996735/81376434-2cd00500-9121-11ea-8442-6d7cabda83e6.png)
 
 
- Get Country-wise Data
+# Get Country-wise Data
  
 ![newcountrySS](https://user-images.githubusercontent.com/54996735/81376654-a2d46c00-9121-11ea-968e-6f67d2eddc2a.png)
 
