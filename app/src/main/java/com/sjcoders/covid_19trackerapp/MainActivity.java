@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
             countryName = countryName.toUpperCase();
             if (countryName.equals("UNITED STATES OF AMERICA") || countryName.equals("AMERICA"))
                 countryName = "USA";
-            else if (countryName.equals("GREAT BRITAIN") || countryName.equals("ENGLAND"))
+            else if (countryName.equals("GREAT BRITAIN") || countryName.equals("ENGLAND") || countryName.equals("UK"))
                 countryName = "UNITED KINGDOM";
             editText.getText().clear();
             Log.i("Country Name", countryName);
